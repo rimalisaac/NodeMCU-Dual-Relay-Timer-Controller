@@ -1,5 +1,9 @@
 # NodeMCU Dual Relay Timer Controller
 
+Added option to select NO and NC mode for the relay.
+
+Added option to set a name for the relay.
+
 A web-based dual relay controller using NodeMCU (ESP8266) with automatic scheduling and persistent storage.
 
 ## Features
