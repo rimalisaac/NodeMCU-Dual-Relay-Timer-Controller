@@ -17,6 +17,11 @@ A web-based dual relay controller using NodeMCU (ESP8266) with automatic schedul
 - WiFi reconnection handling
 - Mobile-responsive design
 
+Screen Shots
+![Image 1](Image1.png)
+![Image 2](Image2.png)
+![Image 3](Image3.png)
+
 ## Hardware Requirements
 
 - NodeMCU ESP8266
